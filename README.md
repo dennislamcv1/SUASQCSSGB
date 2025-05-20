@@ -1,4 +1,5 @@
-# SUCSSGB
+# SUASQCSSGB
+
 ## ASQ-Certified Six Sigma Green Belt (CSSGB) Exam Prep Specialization (3 course series)
 
 Prepare for a career in the field of quality and process improvements and learn in-demand skills like Six Sigma methodologies, DMAIC and DMADV frameworks, and Lean tools to get job-ready in less than 4 months.
